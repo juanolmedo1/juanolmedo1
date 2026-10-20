@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Juan 👋
 
-<!--
-**juanolmedo1/juanolmedo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer from Buenos Aires, Argentina. I build mobile and full-stack apps with React Native and React, from zero to production, with a focus on fintech and crypto wallets.
 
-Here are some ideas to get you started:
+### Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Mobile:** React Native · Expo · EAS
+- **Web:** React · Next.js · TypeScript · TanStack Query · Zustand
+- **Backend:** Node.js · Hono · PostgreSQL · AWS
+- **Tooling:** Jest · Sentry · PostHog · GitHub Actions · Turborepo
+
+### How I use AI
+
+I work in an agent-driven workflow with Claude Code, Codex and Cursor, and I keep refining it to automate repetitive work, improve code quality and ship faster.
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/juan-b-olmedo/) · juanbolmedom1@gmail.com
